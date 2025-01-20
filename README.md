@@ -1,2 +1,2 @@
 # MiniDatabase
-a simple database address administration
+a simple Java database address administration (with Apache)
